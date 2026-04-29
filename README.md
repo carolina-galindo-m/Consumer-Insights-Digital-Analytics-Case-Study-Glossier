@@ -75,13 +75,16 @@ Tools used:
 ## 📂 Project Files
 
 - **Glossier Presentation Slides.pdf**  
-  The full case study presentation including:  
-  - SEO analysis  
-  - Social insights  
-  - Global demand mapping  
-  - Competitive insights  
-  - Final recommendations  
+  The full case study presentation including:
+     - SEO analysis
+     - Social insights
+     - Global demand mapping
+     - Competitive insights
+     - Final recommendations
+     
+- [Tablueau Dashboard](https://public.tableau.com/app/profile/carolina.galindo3625/viz/GlossierSEOInsights/Dashboard8?publish=yes)
 
+    
 ---
 
 ## 🚀 Why This Project Matters
