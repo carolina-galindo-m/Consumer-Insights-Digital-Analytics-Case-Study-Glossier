@@ -95,8 +95,6 @@ This project demonstrates the ability to:
 - Combine analytics with **brand strategy**  
 - Present insights in a way that stakeholders can use  
 
-It mirrors real deliverables expected in **Marketing Insights, Consumer Insights, Retail Analytics, and Brand Strategy internship roles**—including at companies like **e.l.f. Beauty**.
-
 ---
 
 ## 👩‍💻 Author
