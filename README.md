@@ -100,8 +100,11 @@ This project demonstrates the ability to:
 ## 👩‍💻 Author
 
 **Carolina Galindo Mendoza**  
-Business Analytics & Marketing student passionate about consumer behavior, brand strategy, and data-driven storytelling.
+Business Analytics & Marketing Analyst passionate about consumer behavior, brand strategy, and data-driven storytelling.
 
-Feel free to connect with me on LinkedIn!
+## 👩‍💻 Contributor 
+**Vansh Dagar**
 
 ---
+
+Feel free to connect with me on LinkedIn!
